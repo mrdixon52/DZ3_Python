@@ -17,4 +17,4 @@ for i in range(len(slovo)):
                 count = count + list_keys[a]
         a += 1
     a = 0
-print('Scrable sum =', count)
+print('Scrabble sum =', count)
